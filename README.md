@@ -7,7 +7,7 @@ project created to quickly initialize a simple project in nextjs
 - "dev": "next"
 - "build": "next build"
 - "start": "next start"
-- "lint": "next lint" (/*You can now run next lint every time you want to run ESLint to catch errors. Once ESLint has been set up, it will also automatically run during every build*/)
+- "lint": "next lint" (*You can now run next lint every time you want to run ESLint to catch errors. Once ESLint has been set up, it will also automatically run during every build*)
 
 ## installed dependencies
 
@@ -28,15 +28,15 @@ project created to quickly initialize a simple project in nextjs
 ## folder structure
 
 - public
-- src/
-      components
-      hooks
-      services
-      pages/
-              _app.js
-              _document.js
-              index.js
-      scss/
-            style.scss
+- src
+     - components
+     - hooks
+     - services
+     - pages
+           -  _app.js
+           -  _document.js
+           -  index.js
+     - scss
+          - style.scss
 
     
