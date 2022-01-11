@@ -2,14 +2,14 @@
 
 project created to quickly initialize a simple project in nextjs
 
-## scripts created
+## Scripts created
 
 - "dev": "next"
 - "build": "next build"
 - "start": "next start"
 - "lint": "next lint" (*You can now run next lint every time you want to run ESLint to catch errors. Once ESLint has been set up, it will also automatically run during every build*)
 
-## installed dependencies
+## Installed dependencies
 
 - React
 - React Dom
@@ -33,9 +33,9 @@ project created to quickly initialize a simple project in nextjs
      - hooks
      - services
      - pages
-           -  _app.js
-           -  _document.js
-           -  index.js
+          -  _app.js
+          -  _document.js
+          -  index.js
      - scss
           - style.scss
 
